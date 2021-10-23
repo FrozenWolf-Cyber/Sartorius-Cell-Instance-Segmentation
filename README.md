@@ -1,6 +1,6 @@
 # 🦠 Sartorius-Cell-Instance-Segmentation
 Training U-Net and Mask R-CNN models for instance segmentation in a neuronal cell
-To checkout my Kaggle Notebook for U-Net click [here](https://www.kaggle.com/frozenwolf/sartorius-visualization-trainning-u-net) and for Mask R-CNN click [here](https://www.kaggle.com/frozenwolf/brain-tumor-classification)
+To checkout my Kaggle Notebook for U-Net click [here](https://www.kaggle.com/frozenwolf/sartorius-visualization-training-u-net) and for Mask R-CNN click [here](https://www.kaggle.com/frozenwolf/brain-tumor-classification)
 
 ## Dataset:
 You can download the kaggle dataset from [here](https://www.kaggle.com/c/sartorius-cell-instance-segmentation/data)
